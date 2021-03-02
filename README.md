@@ -7,4 +7,4 @@ Source: TBD
 
 ## Annotators
 
-Karina Mishchenkova 
+Karina Mishchenkova, Sofya Ganieva, Matvey Plugaryov
