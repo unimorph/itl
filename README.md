@@ -3,7 +3,7 @@ Itelmen
 
 ## Data
 
-Source: TBD
+Source: TBA
 
 ## Annotators
 
