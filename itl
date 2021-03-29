@@ -63,10 +63,10 @@ atno	atnok	N;LOC;SG
 atno	atnoke	N;DAT;SG
 ato	ato	CONJ
 atsl	atslanke	N;DAT;SG
-atx	atxq	ADV;ADJ
+atxq	atxq	ADV
 atxatx	atxatx	N;NOM;SG
 atxatx	atxatxank	N;LOC;SG
-atχ	atχq	ADV;ADJ
+atχq	atχq	ADV
 axɬ	kʼaxɬˀin	V.CVB;NFIN
 axɬ	kʼaxɬitˀin	V.CVB;NFIN;ITER
 axɬ	kʼinaxɬknen	V.CVB;NFIN
@@ -175,8 +175,8 @@ buɬk	qbuɬkamiŋ	V;FIN;IMP;ARGNO2S;ARGAB1S
 čʼevezlaχ	čʼevezlaχaˀn	ADJ;PL
 čʼexčʼeɬ	čʼexčʼeɬ	ADV
 čʼexro	čʼexrotačχ	V.CVB;NFIN;DIM;ITER
-čʼexro	kčʼexrotaqzoknan	V.CVB;NFIN;IPFV;ITER
-čʼexro	kәnčʼexrotaqzoˀan	V.CVB;NFIN;CAUS;ITER;IPFV
+čʼexrot	kčʼexrotaqzoknan	V.CVB;NFIN;IPFV
+čʼexrot	kәnčʼexrotaqzoˀan	V.CVB;NFIN;CAUS;IPFV
 či	čiqzuzen	V;FIN;IND;SG;3;PRS;IPFV
 či	čiskipnen	V;FIN;IND;PRS;ARGNO3S;ARGBE3P
 či	čizven	V;FIN;IND;PRS;SG;3
@@ -274,9 +274,9 @@ buɬk	qbuɬkamiŋ	V;FIN;IMP;ARGNO2S;ARGAB1S
 čxiz	čxiziˀɲč	N;NOM;PL;DIM
 čxl	kəɳčxliˀin	V.CVB;NFIN;CAUS
 čxl	mənčxličen	V;FIN;IMP;ARGNO1S;ARGAB3S;CAUS
-čxl	nečxlenoke	V;NFIN;PURP;OPT
+čxl	nečxlenoke	V;NFIN;PURP
 da	da	CONJ
-dai	dai	CONJ;PART
+dai	dai	CONJ
 danilova	danilovan	PROPN;NOM;SG;PSSD
 davaj	davaj	INTJ
 daza	daza	ADV
@@ -299,7 +299,7 @@ domoj	domoj	ADV
 dosejčas	dosejčas	ADV
 dvoje	dvoje	NUM
 e	e	V.CVB;NFIN
-e	e	INTJ;V
+e	e	INTJ
 e	exeŋesč	V;FIN;IND;PRS;SG;2
 eˀ	eˀanke	N;DAT;SG
 ečkʼeɬ	ečkʼeɬxan	ADJ;SG;COMPV
@@ -516,7 +516,7 @@ iɬ	kʼiɬqzumiŋ	V;FIN;IMP;ARGNO2S;ARGBE1S;IPFV
 iɬ	kʼiɬqzumiŋsx	V;FIN;IMP;ARGNO2P;ARGBE1S;IPFV
 iɬ	kʼiɬxč	V;FIN;IMP;SG;2
 iɬ	miɬčen	V;FIN;IMP;ARGNO1S;ARGAB3S
-iɬ	miɬitqsukičen	V;FIN;IMP;SG;1;IPFV;ITER
+iɬit	miɬitqsukičen	V;FIN;IMP;SG;1;IPFV
 iɬ	miɬk	V;FIN;IMP;ARGNO1S;ARGAB3S
 iɬ	miɬkičen	V;FIN;IMP;SG;1
 iɬ	miɬkisxenˀin	V;FIN;IMP;ARGNO1S;ARGAB2P;FOC
@@ -766,7 +766,7 @@ kʼenesi	kkʼenesiˀinˀin	V.CVB;NFIN
 kʼenez	kʼenezezenk	N;LOC;SG
 kʼenezi	kʼeneziznen	V;FIN;IND;PRS;ARGNO3S;ARGAB3S
 kʼenezi	kkʼeneziknen	V.CVB;NFIN
-keˀɳɬ	tkeˀɳɬqsukičen	V;FIN;IND;SG;1;PST;IPFV;ITER
+keˀɳɬ	tkeˀɳɬqsukičen	V;FIN;IND;SG;1;PST;IPFV
 kʼepɬkuɬ	kʼepɬkuɬki	V.CVB;NFIN
 kəssa	kəssa	PRO;NOM;SG
 kest	kestanke	N;DAT;SG
@@ -797,8 +797,8 @@ kist	kistenk	N;LOC;SG
 kist	kisteˀnk	N;LOC;PL
 kistaj	kistaj	N;NOM;SG
 kiv	kivenk	N;LOC;SG
-kivve	kivvečχenk	N;LOC;VOC;DIM
-kkuliɬ	kkuliɬetqzusč	V;FIN;IND;SG;3;PRS;ITER;IPFV
+kivve	kivvečχenk	N;LOC;DIM
+kkuliɬet	kkuliɬetqzusč	V;FIN;IND;SG;3;PRS;IPFV
 kl’qumisi	kl’qumisi	ADV
 kl’ukeŋevt	kl’ukeŋevt	N;NOM;SG
 kl’ukeŋevtәn	kl’ukeŋevtәn	PROPN;NOM;SG
@@ -912,7 +912,7 @@ ktχm	ktχmiɬ	N;INS;SG
 ktχmi	ktχmiˀn	N;NOM;PL
 kuk	kuk	PROPN;NOM;SG
 kuk	kuke	PROPN;VOC;SG
-kuke	kkukeˀin	V.CVB;NFIN
+kuke	kkuin	V.CVB;NFIN
 kuke	kkukekas	V.CVB;NFIN
 kuke	kkukeknen	V.CVB;NFIN
 kuke	kukeč	V;FIN;IND;PST;SG;3
@@ -1148,7 +1148,7 @@ liˀlu	qliˀlux	V;FIN;IMP;ARGNO2S;ARGAB3S
 ɬinnu	tɬinnuqsun	V;FIN;IND;SG;1;PST;IPFV
 ɬinnu	әnɬinnuznen	V;FIN;IND;PRS;ARGNO3P;ARGAB3S;CAUS
 linse	linsetizin	V;FIN;IND;PRS;SG;3;ITER
-linse	qʼlinsetqzumiŋ	V;FIN;IMP;ARGNO2S;ARGAB1S;IPFV;ITER
+linset	qʼlinsetqzumiŋ	V;FIN;IMP;ARGNO2S;ARGAB1S;IPFV
 linsi	linsiteznen	V;FIN;IND;PRS;ARGNO3S;ARGAB3S;ITER
 ɬintxɬ	kɬintxɬiˀin	V.CVB;NFIN
 ɬinvil	kɬinvilix	V;FIN;IMP;ARGNO2S;ARGAB3S
@@ -1398,7 +1398,7 @@ nostaxčχ	nostaxčχanke	PROPN;DAT;SG
 nov	novalatesč	V;FIN;IND;SG;2;PRS;ITER
 novaɬes	novaɬes	N;NOM;SG
 novaɬes	novaɬesčaχ	N;NOM;SG;DIM
-novaɬez	novaɬezanke	N;NOM;SG;DAT
+novaɬez	novaɬezanke	N;DAT;SG
 novaɬez	novaɬezeˀn	N;NOM;PL
 novoj	novoj	ADJ;SG
 ntil	ntilven	V;FIN;IND;PST;SG;3
@@ -1616,8 +1616,8 @@ qamzan	kqamzanteknen	V.CVB;NFIN
 qamzan	qamzan	N;NOM;SG
 qamzan	qamzanaˀsx	N;PRP;SG
 qamzan	qamzančaχ	N;NOM;SG;DIM
-qamzan	qamzantaɬč	V;FIN;OPT;PST;SG;3
-qamzan	qamzantaɬqzuzen	V;FIN;OPT;PRS;SG;3;ITER;IPFV
+qamzant	qamzantaɬč	V;FIN;OPT;PST;SG;3
+qamzant	qamzantaɬqzuzen	V;FIN;OPT;PRS;SG;3;IPFV
 qamzan	qamzantekas	V.CVB;NFIN
 qaˀŋuntanoŋ	qaˀŋuntanoŋ	N;NOM;SG
 qas	qasxˀal	N;ABL;SG
@@ -1677,7 +1677,7 @@ qepx	kqepxčom	N;COM;SG
 qepx	qepx	N;NOM;SG
 qepx	qepxenk	N;LOC;SG
 qepxta	qepxta	N;NOM;SG
-qervitin	qervitiničel’	N;NOM;SG;INS
+qervitin	qervitiničel’	N;INS;SG;
 qervitine	qervitineˀn	N;NOM;PL
 qes	kqesxčik	V;FIN;IMP;ARGNO2S;ARGAB3S
 qes	qeskaq	V.CVB;NFIN;NEG
@@ -1821,7 +1821,7 @@ seˀlup	seˀlupsxenesč	V;FIN;IND;SG;2;PRS;ITER
 seɲaŋevt	seɲaŋevtanke	N;DAT;SG
 senk	senk	N;NOM;SG
 senk	senke	N;DAT;SG
-senk	senkeɬalekas	N;V.CVB;NFIN
+senk	senkeɬalekas	V.CVB;NFIN
 seɲɬ	seɲɬ	N;NOM;SG
 seɲɬ	seɲɬeˀn	N;NOM;PL
 seŋ	seŋkaɬ	V.MSDR;FH;NFIN
@@ -2185,7 +2185,7 @@ tomoj	tomoj	ADV
 toŋ	qtoŋsxeˀn	V;FIN;IMP;ARGNO2P;ARGAB3P
 torova	torova	INTJ
 toza	tozaznan	V;FIN;IND;PRS;ARGNO3S;ARGAB3S
-tpalvet	ktpalvetatqsoknan	V.CVB;NFIN;IPFV;ITER
+tpalvetat	ktpalvetatqsoknan	V.CVB;NFIN;IPFV
 tqapes	tqapes	N;NOM;SG
 tqapes	tqapesanke	N;DAT;SG
 tqe	әntqesxenizneˀn	V;FIN;IND;PRS;ARGNO3S;ARGAB3P;CAUS
@@ -2217,7 +2217,7 @@ tutti	tutti	ADV
 tuza	tuza	PRO;NOM;SG
 tuzaˀn	tuzaˀn	PRO;NOM;SG
 tvajt	ktvajtknen	V.CVB;NFIN
-tvɬ	tvɬitqsukičen	V;FIN;IND;SG;1;PST;IPFV;ITER
+tvɬit	tvɬitqsukičen	V;FIN;IND;SG;1;PST;IPFV
 tvoje	tvoje	NUM
 tx	kәntxsˀin	V.CVB;NFIN;CAUS
 tx	qtxssxeˀn	V;FIN;IMP;ARGNO2P;ARGAB3S;FOC
@@ -2246,10 +2246,10 @@ txsa	txsavaxen	V;FIN;IND;PL;3;FUT
 txsa	txsazen	V;FIN;IND;PRS;SG;3
 txsakoŋ	txsakoŋ	ADV
 txsu	txsukes	V.CVB;NFIN
-txun	txunk	ADV;V
+txunk	txunk	ADV
 txun	txunkas	V.CVB;NFIN
 txun	txunki	V.CVB;NFIN
-txun	txunq	ADV;V
+txunq	txunq	ADV
 txuntxun	txuntxunk	N;LOC;SG
 txuŋ	ktxuŋˀin	V.CVB;NFIN
 txuŋ	ktxuŋˀinˀin	V.CVB;NFIN;FOC
@@ -2395,7 +2395,7 @@ vrote	vrote	ADV
 vәreza	kvәrezaˀan	V.CVB;NFIN
 xajmanto	kxajmantoqzoknen	V.CVB;NFIN;IPFV
 xajmaŋto	kxajmaŋtoqsoknaˀn	V.CVB;NFIN;IPFV
-xaɬč	xaɬč	ADV;INTJ
+xaɬč	xaɬč	INTJ
 xaɬč	xaɬč	ADV
 xamusk	xamusk	ADV
 xaˀmusx	xaˀmusx	ADV
@@ -2541,7 +2541,7 @@ zven	l’uzvenizeˀn	V;FIN;IND;PRS;RECP;PL;3
 χumst	qχumstknen	V.CVB;NFIN
 χumst	qχumstknәn	V.CVB;NFIN
 χumst	qχumstxč	V;FIN;IMP;SG;2
-χumst	χumstatesč	V;FIN;IND;SG;3;PRS;ITER;FUT
+χumst	χumstatesč	V;FIN;IND;SG;3;PRS;ITER
 χumst	χumstqzusčen	V;FIN;IND;SG;3;PRS;IPFV
 χumsti	qχumstixč	V;FIN;IMP;SG;2
 χuˀŋuŋu	χuˀŋuŋuˀn	N;NOM;PL
@@ -2560,7 +2560,7 @@ zven	l’uzvenizeˀn	V;FIN;IND;PRS;RECP;PL;3
 әɬčk	әɬčkuq	V.CVB;NFIN;NEG
 әɬčku	kәɬčkuˀin	V.CVB;NFIN
 әɬčku	kәɬčkuˀinˀin	V.CVB;NFIN;FOC
-әɬčku	kәɬčkustqzuˀin	V.CVB;NFIN;ITER;IPFV
+әɬčkust	kәɬčkustqzuˀin	V.CVB;NFIN;IPFV
 әɬčku	nәɬčkuneˀn	V;FIN;IND;PST;ARGNO3P;ARGAB3P
 әɬčku	nәɬčkuqzuzen	V;FIN;IND;PRS;ARGNO3S;ARGAB3P;IPFV
 әɬčku	nәɬčkuvomnen	V;FIN;IND;PST;ARGNO3P;ARGAB3S
@@ -2620,7 +2620,7 @@ zven	l’uzvenizeˀn	V;FIN;IND;PRS;RECP;PL;3
 әnkʼsi	tәnkʼsičeˀn	V;FIN;IND;PST;ARGNO1S;ARGBE3P
 әnkʼvv	tәnkʼvvaɬen	V;FIN;OPT;PST;ARGNO1S;ARGBE3S
 әnkәz	әnkәzaɬmiŋ	V;FIN;IND;ARGNO3S;ARGAB1S;FUT
-әnn	kәnnatqzuknen	V.CVB;NFIN;IPFV;ITER
+әnnat	kәnnatqzuknen	V.CVB;NFIN;IPFV
 әnn	әnnanke	PRO;DAT;SG
 әnna	kәnnatknen	V.CVB;NFIN;ITER
 әnna	әnna	PRO;NOM;SG
@@ -2688,7 +2688,7 @@ zven	l’uzvenizeˀn	V;FIN;IND;PRS;RECP;PL;3
 әŋqsx	әŋqsxezen	V;FIN;IND;PRS;SG;3
 әŋqsx	әŋqsxezeˀn	V;FIN;IND;PRS;PL;3
 әŋqsx	әŋqsxki	V.CVB;NFIN
-әŋqsx	әŋqsxq	ADV;V
+әŋqsxq	әŋqsxq	V
 әŋqsx	әŋqsxqzuskinen	V;FIN;IND;PRS;ARGNO3S;ARGBE3S;IPFV
 әŋqә	әŋqәnke	PRO;DAT;SG
 әzan	әzanxˀal	N;SG;ABL
