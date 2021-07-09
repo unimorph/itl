@@ -7,4 +7,4 @@ Source: TBA
 
 ## Annotators
 
-Karina Mishchenkova, Sofya Ganieva, Matvey Plugaryov
+Karina Sheifer, Sofya Ganieva, Matvey Plugaryov
